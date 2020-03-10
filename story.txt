@@ -2,9 +2,14 @@ Welcome to Sourish's story
 
 Once upon a time there lived a plumber. He was very good at this job.
 Some may even say, the best plumber there ever was.
+  The plumber could fix anything. Regardless of how big or small the job was. The 
+key to his exellence was due to has large, burly hands. They could grip any pipe or
+twist any screw that needed to be twisted. 
 
 This plumber dreamed of rescuing a princess and stopping a giant turtle.
- Unfortunately, a legal company found out about his dreams and decided to sue for copyright infringement.  
+ Unfortunately, a legal company found out about his dreams and decided to sue for copyright infringement.
 =======
+
 It's a world full of commits from some github user. 
+
 

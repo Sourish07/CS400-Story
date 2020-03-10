@@ -1,0 +1,36 @@
+[33mcommit 54a7c40dede9e888e168e0133877ac199fa4d184[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alex Beckerman <beckerman@royal-12.cs.wisc.edu>
+Date:   Sat Mar 7 20:55:02 2020 -0600
+
+    Alex Beckerman Addition
+
+[33mcommit 7ddf635ad9724211010b014dc36f76a7e5577bdc[m
+Merge: 481099f a925dc2
+Author: Sourish07 <sourish@snares-05.cs.wisc.edu>
+Date:   Fri Feb 28 18:52:08 2020 -0600
+
+    Merge branch 'master' of https://github.com/Sourish07/CS400-Story
+
+[33mcommit 481099f526232e1f45d07da7f43820cdebd693ad[m
+Author: Sourish07 <sourish@snares-05.cs.wisc.edu>
+Date:   Fri Feb 28 18:49:30 2020 -0600
+
+    Added first line
+
+[33mcommit a925dc270492cf9d7138f76d4097bfc4a102c3d3[m
+Author: cvillarr23 <cdvillarreal@wisc.edu>
+Date:   Fri Feb 28 10:50:43 2020 -0600
+
+    Paragraph 2 - Conor
+
+[33mcommit decd66e447b2f9c78291accc9dc448e4b5fc4e3c[m
+Author: Sourish07 <sourish@rockhopper-04.cs.wisc.edu>
+Date:   Fri Feb 28 02:24:52 2020 -0600
+
+    Added story.txt
+
+[33mcommit 7031ce541220f449ac3afd8cab3331ee4ae660a3[m
+Author: Sourish07 <sourish@rockhopper-04.cs.wisc.edu>
+Date:   Fri Feb 28 02:22:32 2020 -0600
+
+    first commit
