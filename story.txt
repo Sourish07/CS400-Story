@@ -8,6 +8,9 @@ twist any screw that needed to be twisted.
 
 This plumber dreamed of rescuing a princess and stopping a giant turtle.
  Unfortunately, a legal company found out about his dreams and decided to sue for copyright infringement.
+
+The plumber was afraid he would lose the case, so while he was repairing a pipe one day, he crawled in the pipe. Finally, after climbing for a few hours, he found an exit. He found himself successfully entering another world, where there were a princesse and a giant turtle. Now he could realize his dream, and he didn’t have to worry about being sued!
+
 =======
 
 It's a world full of commits from some github user. 
